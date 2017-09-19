@@ -1,2 +1,2 @@
 Name: Scott Willan
-About: This is a sentence that will be changed. See look, I changed it!
+About: This is a sentence that has been changed. See look, I changed it!
